@@ -1,6 +1,5 @@
 class Transaction:
-    def __init__(self, type, amount):
-        self.type = type
+    def __init__(self,amount):
         self.amount = amount
 
 
